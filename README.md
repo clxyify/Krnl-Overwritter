@@ -1,4 +1,4 @@
-# DLL-Overwritter
+# KRNL's DLL-Overwritter
 
 Overwrites the KRNL console title and console lines in real time.
 
